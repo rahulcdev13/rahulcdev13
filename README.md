@@ -6,23 +6,23 @@ Hi Guys,
 
 **🛠️ Skills Highlights:**
 
-💻 Proficient in React.js and its ecosystem (Redux, Hooks, Redux Toolkit ,Thunk).
-
-🎨 Strong command of HTML5, CSS3, and responsive design principles.
-
-⚙️ Experience with SPA Micro-Frontend And Azure DevTools.
-
-🎨 Strong command of Bootstrap, Material UI, Tailwind CSS and responsive design principles.
-
-🚀 Familiarity with RESTful API integration.
-
-🌐 Cross-functional collaboration with UX/UI designers for pixel-perfect interfaces.
-
-📊 Data-driven decision-making through performance optimization and testing.
+  💻 Proficient in React.js and its ecosystem (Redux, Hooks, Redux Toolkit ,Thunk).
+  
+  🎨 Strong command of HTML5, CSS3, and responsive design principles.
+  
+  ⚙️ Experience with SPA Micro-Frontend And Azure DevTools.
+  
+  🎨 Strong command of Bootstrap, Material UI, Tailwind CSS and responsive design principles.
+  
+  🚀 Familiarity with RESTful API integration.
+  
+  🌐 Cross-functional collaboration with UX/UI designers for pixel-perfect interfaces.
+  
+  📊 Data-driven decision-making through performance optimization and testing.
 
 **🌐 Current Focus:**
 
-My current focus revolves around leveraging the latest React.js features to build scalable and maintainable frontend architectures. I'm enthusiastic about staying abreast of industry trends, continuously learning, and applying innovative solutions to enhance user experiences.
+  My current focus revolves around leveraging the latest React.js features to build scalable and maintainable frontend architectures. I'm enthusiastic about staying abreast of industry trends, continuously learning, and applying innovative solutions to enhance user experiences.
 
 Expert in Developing Responsive & Interactive websites | Expert in CSS3, HTML5 and React JS | Good knowledge About ES6.
 
@@ -58,7 +58,7 @@ Expert in Developing Responsive & Interactive websites | Expert in CSS3, HTML5 a
 
 🌟 **Let's Connect:**
 
-I'm always open to connecting with like-minded professionals, discussing exciting opportunities, and sharing insights within the vibrant React.js community. If you're passionate about frontend development, innovative technologies, or just want to connect, feel free to reach out!
+  I'm always open to connecting with like-minded professionals, discussing exciting opportunities, and sharing insights within the vibrant React.js community. If you're passionate about frontend development, innovative technologies, or just want to connect, feel free to reach out!
 
 📧 rahulc.dev13@gmail.com | 🔗 https://www.linkedin.com/in/rahul194/  | ⚙️  https://github.com/rahulcdev13
 
