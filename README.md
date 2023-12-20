@@ -5,6 +5,7 @@ Hi Guys,
 ![homepage](https://github.com/rahulcdev13/rahulcdev13/assets/105979644/f138921c-1938-4b4f-8a26-a82457d3c5ec)
 
 **🛠️ Skills Highlights:**
+
 💻 Proficient in React.js and its ecosystem (Redux, Hooks, Redux Toolkit ,Thunk).
 🎨 Strong command of HTML5, CSS3, and responsive design principles.
 ⚙️ Experience with SPA Micro-Frontend And Azure DevTools.
@@ -14,6 +15,7 @@ Hi Guys,
 📊 Data-driven decision-making through performance optimization and testing.
 
 **🌐 Current Focus:**
+
 My current focus revolves around leveraging the latest React.js features to build scalable and maintainable frontend architectures. I'm enthusiastic about staying abreast of industry trends, continuously learning, and applying innovative solutions to enhance user experiences.
 
 Expert in Developing Responsive & Interactive websites | Expert in CSS3, HTML5 and React JS | Good knowledge About ES6.
