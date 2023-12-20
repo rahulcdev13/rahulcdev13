@@ -7,11 +7,17 @@ Hi Guys,
 **🛠️ Skills Highlights:**
 
 💻 Proficient in React.js and its ecosystem (Redux, Hooks, Redux Toolkit ,Thunk).
+
 🎨 Strong command of HTML5, CSS3, and responsive design principles.
+
 ⚙️ Experience with SPA Micro-Frontend And Azure DevTools.
+
 🎨 Strong command of Bootstrap, Material UI, Tailwind CSS and responsive design principles.
+
 🚀 Familiarity with RESTful API integration.
+
 🌐 Cross-functional collaboration with UX/UI designers for pixel-perfect interfaces.
+
 📊 Data-driven decision-making through performance optimization and testing.
 
 **🌐 Current Focus:**
