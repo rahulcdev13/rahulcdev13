@@ -1,6 +1,6 @@
 Hi Guys,
 
-😎 Welcome to my LinkedIn! 👋 I'm  **Rahul Chavan**, a dedicated React.js developer with a passion for crafting seamless and engaging user experiences. 🌐✨
+😎 Welcome to my Profile! 👋 I'm  **Rahul Chavan**, a dedicated React.js developer with a passion for crafting seamless and engaging user experiences. 🌐✨
 
 ![homepage](https://github.com/rahulcdev13/rahulcdev13/assets/105979644/f138921c-1938-4b4f-8a26-a82457d3c5ec)
 
